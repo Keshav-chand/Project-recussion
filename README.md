@@ -1,0 +1,1 @@
+This Java program demonstrates a recursive method easy(int n) that prints integers in a specific pattern. Initially, it checks if the input n is less than 1, in which case it returns. Otherwise, it recursively calls itself twice, first with n-2 and then with n-3. After each recursive call, it prints the current value of n.
